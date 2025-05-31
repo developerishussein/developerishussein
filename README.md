@@ -20,7 +20,7 @@
   <br>
   💻 I specialize in building robust and scalable mobile and web applications.
   <br>
-  🧠 I'm proficient in <b>Flutter, Dart, PHP, SQL, Laravel, Go, Rust, C++</b>
+  🧠 I'm proficient in <b> Dart, PHP, SQL, Go, Rust, C++</b>
   <br>
   🔍 Clean Architecture | SOLID Principles | Design Patterns | Modular Design
   <br>
