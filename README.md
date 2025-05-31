@@ -30,7 +30,7 @@
   <br>
   📚 Always learning and building to improve my craft.
   <br>
-  📫 Reach me via: <a href="mailto:your-email@example.com">your-email@example.com</a>
+  📫 Reach me via: <a href="mailto:your-developerishussein@gmail.com">your-email@example.com</a>
 </p>
 
 <hr>
