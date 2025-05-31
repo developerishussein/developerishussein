@@ -1,5 +1,5 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hussein-jaafar.hussein-jaafar">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=developerishussein.developerishussein">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -10,7 +10,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/your-linkedin" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
   <code><a href="https://stackoverflow.com/users/your-id" title="Stack Overflow Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg"> Stack Overflow</a></code>
-  <code><a href="https://github.com/hussein-jaafar" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
+  <code><a href="https://github.com/developerishussein" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
 </h5>
 <br>
 
@@ -56,10 +56,10 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <br>
 <p align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=hussein-jaafar&theme=react&border=61dafb&hide_border=true" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=hussein-jaafar&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img width="390" src="https://streak-stats.demolab.com/?user=developerishussein&theme=react&border=61dafb&hide_border=true" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=developerishussein&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussein-jaafar&layout=compact&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerishussein&layout=compact&theme=react&hide_border=true" />
 </p>
 
 <hr>
@@ -67,12 +67,11 @@
 <h2 align="center">📌 Featured Repositories 📌</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/hussein-jaafar/banking_mobile" title="Banking App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hussein-jaafar&repo=banking_mobile&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/hussein-jaafar/medic_meditation_app" title="Meditation App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hussein-jaafar&repo=medic_meditation_app&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/developerishussein/banking_mobile" title="Banking App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=developerishussein&repo=banking_mobile&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/developerishussein/medic_meditation_app" title="Meditation App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=developerishussein&repo=medic_meditation_app&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/hussein-jaafar?tab=repositories" title="Show Repositories">🔍 Show More Projects 🔎</a>
+  <a href="https://github.com/developerishussein?tab=repositories" title="Show Repositories">🔍 Show More Projects 🔎</a>
 </h4>
-
