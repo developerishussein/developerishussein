@@ -8,7 +8,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/developerishussein/)" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+  <code><a href="[https://www.linkedin.com/in/developerishussein/]" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
   <code><a href="https://stackoverflow.com/users/your-id" title="Stack Overflow Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg"> Stack Overflow</a></code>
   <code><a href="https://github.com/developerishussein" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
 </h5>
