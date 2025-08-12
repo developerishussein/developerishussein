@@ -68,7 +68,7 @@
 <h2 align="center">📌 Featured Repositories 📌</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/developerishussein/banking_mobile" title="Banking App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=developerishussein&repo=banking_mobile&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/developerishussein/pofk_algorithm_rust" title="algorithm_rust"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=developerishussein&repo=banking_mobile&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/developerishussein/medic_meditation_app" title="Meditation App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=developerishussein&repo=medic_meditation_app&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
